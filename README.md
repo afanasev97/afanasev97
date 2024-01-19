@@ -26,7 +26,7 @@ I'm a budding JavaScript developer passionate about building scalable and perfor
 
 ## 📈 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/your-username)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=afanasev97&show_icons=true&theme=radical)](https://github.com/afanasev97)
 
 ## 🤝 Open for Collaboration
 
