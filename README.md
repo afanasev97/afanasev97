@@ -10,7 +10,7 @@ I'm a budding JavaScript developer passionate about building scalable and perfor
 
 - 💻 Programming Languages: JavaScript (Node.js), HTML, CSS
 - 🌐 Frameworks: Express.js (for backend), React (for frontend)
-- 🛠 Tools: Git, VS Code, npm
+- 🛠 Tools: Git, VS Code, npm, yarn
 - 🚀 Additional: MongoDB, RESTful API, Puppeteer
 
 ## 🌱 Currently Learning
