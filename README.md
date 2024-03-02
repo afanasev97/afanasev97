@@ -24,9 +24,6 @@ I'm a budding JavaScript developer passionate about building scalable and perfor
 - Email: [afanasev.ilya.a@yandex.ru](mailto:afanasev.ilya.a@yandex.ru)
 - Telegram: [@ilia_afanasev](https://t.me/ilia_afanasev)
 
-## 📈 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=afanasev97&show_icons=true&theme=radical)](https://github.com/afanasev97)
 
 ## 🤝 Open for Collaboration
 
