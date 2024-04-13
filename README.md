@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a budding JavaScript developer passionate about building scalable and performant web applications. My primary focus lies in the backend using Node.js and the frontend with React.
+I'm a JavaScript developer passionate about building scalable and performant web applications. My primary focus lies in the backend using Node.js and the frontend with React.
 
 ## 🔧 Technologies & Tools
 
