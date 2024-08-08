@@ -4,14 +4,14 @@
 
 ## About Me
 
-I'm a JavaScript developer passionate about building scalable and performant web applications. My primary focus lies in the backend using Node.js. I strive to continually improve my skills by staying abreast of the latest trends in technology to incorporate them into my work.
+I'm a Typescript/JavaScript developer passionate about building scalable and performant web applications. My primary focus lies in the backend using Node.js. I strive to continually improve my skills by staying abreast of the latest trends in technology to incorporate them into my work.
 
 ## 🔧 Technologies & Tools
 
-- 💻 Programming Languages: JavaScript, TypeScript, HTML, CSS
-- 🌐 Frameworks: Nest.js, Express.js, React
-- 🛠 Tools: Docker, Git, VS Code, npm, yarn, rollup
-- 🚀 Additional: MongoDB, PostgreSQL, RESTful API, Puppeteer
+- 💻 Programming Languages: JavaScript, TypeScript
+- 🌐 Frameworks: Nest.js, Express.js, Hapi
+- 🛠 Tools: Docker, Git, VS Code, Postman, npm, yarn, rollup
+- 🚀 Additional: MongoDB, PostgreSQL, RESTful API, Puppeteer, Jest
 
 ## 🌱 Currently Learning
 
