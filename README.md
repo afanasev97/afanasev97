@@ -9,8 +9,8 @@ I'm a Typescript/JavaScript developer passionate about building scalable and per
 ## 🔧 Technologies & Tools
 
 - 💻 Programming Languages: JavaScript, TypeScript
-- 🌐 Frameworks: Nest.js, Express.js, Hapi
-- 🛠 Tools: Docker, Git, VS Code, Postman, npm, yarn, rollup
+- 🌐 Frameworks: NestJS, Express, Hapi
+- 🛠 Tools: Docker, Git, VS Code, Postman, npm, yarn, TypeORM, Knex.js
 - 🚀 Additional: MongoDB, PostgreSQL, RESTful API, Puppeteer, Jest
 
 ## 🌱 Currently Learning
