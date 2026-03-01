@@ -1,5 +1,5 @@
 # Hello, I'm Ilia 👋  
-### Backend Developer (TypeScript/Node.js) | 2+ years in production environments
+### Backend Developer (TypeScript/Node.js) | 3+ years in production environments
 
 [![Telegram](https://img.shields.io/badge/-@ilia__afanasev-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/ilia_afanasev)
 [![Email](https://img.shields.io/badge/-afanasev.ilya.a@yandex.ru-red?style=flat&logo=mail.ru&logoColor=white)](mailto:afanasev.ilya.a@yandex.ru)
